@@ -2,3 +2,9 @@ h1 {
     font-family: 'Dancing Script', cursive;
 font-family: 'Montserrat', sans-serif;
 }
+iframe {  
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
